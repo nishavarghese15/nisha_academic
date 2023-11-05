@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a research scholar in the Department of Electrical Engineering at IIT Madras working under Prof. A. N. Rajagopalan. I have done M. Tech. from     Government Engineering College, Thrissur, Kerala. I received my Bachelor’s Degree in Electronics and Communications Engineering from the College of Engineering,   Chengannur, Kerala. My research interest lies in computer vision and deep learning. I have worked on image restoration and point target detection & tracking     utilizing both traditional as well as deep learning based methods. My recent works include underwater image restoration and depth estimation in a self-supervised way, motion deblurring of gimbal-based images, and point target detection and tracking. Currently, I am focussing on self-supervised techniques/neural networks for several computer vision tasks.
 {style="text-align: justify;"}
