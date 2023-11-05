@@ -25,13 +25,13 @@ organizations:
     url: https://www.ee.iitm.ac.in/ipcvlab/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a research scholar in the Department of Electrical Engineering at IIT Madras working under Prof. A. N. Rajagopalan. I have done M. Tech. from Government Engineering College, Thrissur, Kerala. I received my Bachelor’s Degree in Electronics and Communications Engineering from the College of Engineering, Chengannur, Kerala. My research interest lies in computer vision and deep learning. I have worked on image restoration and point target detection & tracking utilizing both traditional as well as deep learning based methods. My recent works include underwater image restoration and depth estimation in a self-supervised way, motion deblurring of gimbal-based images, and point target detection and tracking. Currently, I am focussing on self-supervised techniques/neural networks for several computer vision tasks.
+bio: I am a research scholar in the Department of Electrical Engineering at IIT Madras working under Prof. A. N. Rajagopalan. I have done M. Tech. from     Government Engineering College, Thrissur, Kerala. I received my Bachelor’s Degree in Electronics and Communications Engineering from the College of Engineering,   Chengannur, Kerala. My research interest lies in computer vision and deep learning. I have worked on image restoration and point target detection & tracking     utilizing both traditional as well as deep learning based methods. My recent works include underwater image restoration and depth estimation in a self-supervised way, motion deblurring of gimbal-based images, and point target detection and tracking. Currently, I am focussing on self-supervised techniques/neural networks for several computer vision tasks.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Image Processing
+  - Deep Learning
+  - Computer Vision
 
 # Education to show in About widget
 education:
