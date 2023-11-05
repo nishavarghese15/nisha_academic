@@ -80,10 +80,10 @@ skills:
         percent: 40
         icon: cat
         icon_pack: fas
-      - name: 
+      - name: Travelling
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: person-hiking
         icon_pack: fas
 
 # Social/Academic Networking
