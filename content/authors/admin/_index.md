@@ -1,31 +1,31 @@
 ---
 # Display name
-title: 吳健雄
+title:
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Nisha Varghese
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nisha
+last_name: Varghese
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research scholar at IIT Madras
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: IIT Madras
+    url: https://www.ee.iitm.ac.in/ipcvlab/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a research scholar in the Department of Electrical Engineering at IIT Madras working under Prof. A. N. Rajagopalan. I have done M. Tech. from Government Engineering College, Thrissur, Kerala. I received my Bachelor’s Degree in Electronics and Communications Engineering from the College of Engineering, Chengannur, Kerala. My research interest lies in computer vision and deep learning. I have worked on image restoration and point target detection & tracking utilizing both traditional as well as deep learning based methods. My recent works include underwater image restoration and depth estimation in a self-supervised way, motion deblurring of gimbal-based images, and point target detection and tracking. Currently, I am focussing on self-supervised techniques/neural networks for several computer vision tasks.
 
 # Interests to show in About widget
 interests:
