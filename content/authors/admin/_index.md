@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Image Processing and Computer Vision
+      institution: IIT Madras
+      year: Current
+    - course: MTech in Signal Processing
+      institution: Government Engineering College, Thrissur
+      year: 2014
+    - course: BTech in Electronics and Communication
+      institution: Cochin University of Science and Technology
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,31 +56,31 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: MATLAB
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Deep Learning
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Crochet
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Table Tennis
         description: ''
-        percent: 100
+        percent: 40
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: 
         description: ''
         percent: 80
         icon: camera-retro
